@@ -543,3 +543,24 @@ Today I practiced how to detect duplicate records in SQL tables.
 
 ## Key Concept
 Duplicate detection is important for maintaining clean and reliable database records.
+
+# Day 30 – Mini SQL Project (Student Management System)
+
+Today I built a small SQL project to apply the concepts learned during the MySQL practice journey.
+
+## Project Overview
+The project simulates a simple student management system with multiple tables.
+
+## Tables Created
+- students
+- courses
+- enrollments
+
+## What I Practiced
+- Table creation with primary and foreign keys
+- Inserting relational data
+- Joining multiple tables
+- Performing analytical queries using GROUP BY
+
+## Key Concept
+Relational databases store data across multiple tables connected through foreign key relationships.
